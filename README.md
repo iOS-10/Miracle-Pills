@@ -1,6 +1,8 @@
 ###Miracle Pills
 <img src = "https://github.com/HardcoreIOS/Miracle-Pills/blob/master/Icon-60%403x.png">
 
+[App Demo](http://quick.as/w267uqgqq)
+
 ###Screens
 
 #### Home Screen
