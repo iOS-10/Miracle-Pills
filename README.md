@@ -16,4 +16,4 @@
 <img src = "https://github.com/HardcoreIOS/Miracle-Pills/blob/master/info%20card.png">
 
 #### States Picker
-https://github.com/HardcoreIOS/Miracle-Pills/blob/master/pickerview.png
+<img src = "https://github.com/HardcoreIOS/Miracle-Pills/blob/master/pickerview.png">
